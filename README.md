@@ -16,7 +16,7 @@ npm install
 ## Contract
 Generate a contract using Chat GPT or create your own and input it to contracts/contract.sol file
 
-* If you want the cheapest contracts, have the chatbot create with minimal bytecode.
+**If you want the cheapest contracts, ask Chat GPT to create it with minimal bytecode.**
 
 In general, less code, less bytecode
 
