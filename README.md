@@ -31,3 +31,5 @@ npx hardhat compile
 This will generate artifacts/contracts/contract.sol directory.
 
 Abi and bytecode of your contract are located inside .json file inside that directory.
+
+TG channel - https://t.me/easypeoff
