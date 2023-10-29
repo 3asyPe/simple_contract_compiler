@@ -4,7 +4,9 @@
 https://hardhat.org/tutorial
 
 ## Installation
-Follow this guide or
+Follow this guide https://hardhat.org/tutorial/setting-up-the-environment 
+
+or
 
 Install node js from official site https://nodejs.org/en/download
 
